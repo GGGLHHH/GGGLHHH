@@ -2,7 +2,7 @@
 ![scenery.jpg](img%2Fscenery.jpg)
 # Hello there! 👋🏻 I am ge datou ! <img src="./img/cat.gif" alt="Meaow" width="50" />
 
-大家好，我是 [葛葛葛](https://github.com/17359898647)
+大家好，我是 [葛葛葛](https://github.com/GGGLHHH)
 <br/>
 凡夫俗子不知道贤者之名，岂料我乃一位优秀的前端工程师，自幼痴迷软件开发，崇尚创新之思维，尤嗜优美之界面。每逢我所构建的项目，必然细心呵护用户体验，追求架构之卓越，求取代码之至美。
 
@@ -20,7 +20,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/17359898647/17359898647/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/17359898647/17359898647/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/17359898647/17359898647/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GGGLHHH/GGGLHHH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GGGLHHH/GGGLHHH/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GGGLHHH/GGGLHHH/output/github-contribution-grid-snake.svg">
 </picture>
