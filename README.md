@@ -14,7 +14,7 @@
 **使用的语言和工具:**  
 
 <a href="https://skillicons.dev">
-  <img height="40" src="https://skillicons.dev/icons?i=js,vue,react,nodejs,rust,go,python,docker,kubernetes,fly&perline=5&theme=dark" alt="技术栈" />
+  <img height="48" src="https://skillicons.dev/icons?i=js,vue,react,nodejs,rust,go,python,docker,kubernetes,fly&perline=10&theme=dark" alt="技术栈" />
 </a>
 
 
